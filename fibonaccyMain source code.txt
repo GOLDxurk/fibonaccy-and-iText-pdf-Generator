@@ -1,7 +1,0 @@
-package es.iessoterohernandez.daw.endes.fibonacciMain;
-import es.iessoterohernandez.daw.endes.fibonacci.*;
-public class App {
-    public static void main(String[] args) {
-    	fibonacci.main(args);
-    }
-}
